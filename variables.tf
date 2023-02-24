@@ -96,3 +96,5 @@ variable "environment_instance_settings" {
     }
   }
 }
+
+### New test
